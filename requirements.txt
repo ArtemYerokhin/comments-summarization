@@ -1,0 +1,6 @@
+nltk==3.9.1
+pandas==2.2.3
+pymystem3==0.2.0
+scikit_learn==1.6.1
+torch==2.7.0
+transformers==4.51.3
